@@ -67,6 +67,7 @@
 - [something-ai-hash](https://github.com/something-ai-hash)
 - [John Harold Sipat]
 - [Nathan FAbio](https://github.com/nathanfabio)
+- [Shiv Patel@DevSocPI](https://github.com/ShivPatelMagic)
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
